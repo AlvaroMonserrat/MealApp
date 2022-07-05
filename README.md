@@ -1,16 +1,13 @@
 # meals_app
 
-A new Flutter project.
+- Navigator
+- Routes
+- BottomNavigatorBar
+- Drawer
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/23504222/177329073-29558100-ecfc-4291-a851-6d98b6610113.png)
+![image](https://user-images.githubusercontent.com/23504222/177329454-025a3ac3-fd4d-444a-8a2c-9ffcc7ed82f4.png)
+![image](https://user-images.githubusercontent.com/23504222/177329578-c15c375b-f614-4783-9224-8f19a69e067c.png)
+![image](https://user-images.githubusercontent.com/23504222/177329790-d4e091d1-966e-45bf-a94b-66df93aaef5b.png)
+![image](https://user-images.githubusercontent.com/23504222/177330015-7fe9af39-1e26-41df-92d4-0a7d2912fab7.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
